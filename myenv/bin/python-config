@@ -1,4 +1,4 @@
-#!/Users/srikant.kalaputapu/Documents/personal-projects/django/personalblog/blogger-env/myvenv/bin/python
+#!/Users/srikant.kalaputapu/Documents/personal-projects/django/personalblog/blogger/myenv/bin/python
 
 import sys
 import getopt
